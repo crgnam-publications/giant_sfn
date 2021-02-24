@@ -1,4 +1,4 @@
-# A NOVEL SURFACE FEATURE NAVIGATION ALGORITHM USING RAY TRACING
+# A Novel Surface Feature Navigation Algorithm Using Ray Tracing
 This repository contains all files required to compile this paper.  Because
 
 ***
