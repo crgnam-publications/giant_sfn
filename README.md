@@ -1,5 +1,7 @@
 # A Novel Surface Feature Navigation Algorithm Using Ray Tracing
-This repository contains all files required to compile this paper.  Because much of this work was done with proprietary software, the source code used to generate the results are unfortunately not available.
+This repository contains all files required to compile this paper.  A pre-compiled version of the paper is available for download under releases.
+
+*Because much of this work was done with proprietary software, the source code used to generate the results are unfortunately not available.*
 
 ## Abstract
 We demonstrate a novel single-bounce ray tracing approach to landmark identification for surface feature-based relative navigation.  A priori knowledge of the camera pose and known topographic maps for each landmark are used to render the potentially visible landmarks via ray tracing into the image frame.  These templates are registered with a search region around the predicted location for each landmark in the image, to locate its observed center.  This procedure is applied to images from the OSIRIS-REx Orbital A and Orbital B mission phases, and the results are compared with those obtained via previous landmark identification methods.
@@ -21,6 +23,6 @@ We demonstrate a novel single-bounce ray tracing approach to landmark identifica
 
 ***
 # Contact
-For questions on this paper, please feel free to reach out!
+For more information about my research, feel free to checkout my website: [chrisgnam.space](https://www.chrisgnam.space)
 
-**Email:** [crgnam@buffalo.edu](mailto:crgnam@buffalo.edu)
+For questions on this paper or any other work of mine, please feel free to reach out to my email: [crgnam@buffalo.edu](mailto:crgnam@buffalo.edu)
