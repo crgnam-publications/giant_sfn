@@ -13,10 +13,10 @@ We demonstrate a novel single-bounce ray tracing approach to landmark identifica
 1. First, to clone the entire repository, and all required submodules.  To do so, simply run:
     - `git clone git@github.com:crgnam-publications/giant_sfn.git`
 2. Next, you'll need to install `latexmk`, `texlive`, and `tex-live-extra` if you haven't already.  For this, simply run: 
-    - `sudo apt update`
-    - `sudo apt-get update`
-    - `sudo apt install latexmk`
-    - `sudo apt-get install texlive texlive-latex-extra`
+    - `sudo apt update;`
+    - `sudo apt-get update;`
+    - `sudo apt install latexmk;`
+    - `sudo apt-get install texlive texlive-latex-extra;`
 3. Finally, to build the document simply run: `./make.sh`
 
 *NOTE: To build the extended abstract, navigation to `extended_abstract/` and run the `./make.sh` script found in there*
