@@ -1,5 +1,5 @@
 # A Novel Surface Feature Navigation Algorithm Using Ray Tracing
-This repository contains all files required to compile this paper.  Because
+This repository contains all files required to compile this paper.  Because much of this work was done with proprietary software, the source code used to generate the results are unfortunately not available.
 
 ***
 # File Structure
