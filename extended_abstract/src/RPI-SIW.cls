@@ -24,6 +24,8 @@
 
 % 10pt Times New Roman is approximately 9.5pt in Computer Modern
 \RequirePackage{scrextend}
+\RequirePackage{lmodern}
+\RequirePackage{anyfontsize}
 \changefontsizes{9.5pt}
 
 % If you REALLY must use Times New Roman...
