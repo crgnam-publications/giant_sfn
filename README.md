@@ -33,6 +33,6 @@ This repository contains all files required to compile this paper.  A pre-compil
 
 ***
 # Contact
-For more information about my research, feel free to checkout my website: [chrisgnam.space](chrisgnam.space)
+For more information about my research, feel free to checkout my website: [chrisgnam.space](https://www.chrisgnam.space)
 
 For questions on this paper or any other work of mine, please feel free to reach out to my email: [crgnam@buffalo.edu](mailto:crgnam@buffalo.edu)
