@@ -1,19 +1,9 @@
 # A Novel Surface Feature Navigation Algorithm Using Ray Tracing
 This repository contains all files required to compile this paper.  Because much of this work was done with proprietary software, the source code used to generate the results are unfortunately not available.
 
-***
-# File Structure
+## Abstract
+We demonstrate a novel single-bounce ray tracing approach to landmark identification for surface feature-based relative navigation.  A priori knowledge of the camera pose and known topographic maps for each landmark are used to render the potentially visible landmarks via ray tracing into the image frame.  These templates are registered with a search region around the predicted location for each landmark in the image, to locate its observed center.  This procedure is applied to images from the OSIRIS-REx Orbital A and Orbital B mission phases, and the results are compared with those obtained via previous landmark identification methods.
 
-- `build/` Is created/populated with all of the intermediate files created by the act of compiling the dissertation
-- `extended_abstract/` Contains all of the source files to produce the extended abstract for this paper
-- `figs/` Contains all of the figures and plots appearing in the paper
-- `misc/` Contains miscelaneous documents used in preparing the paper
-- `src/` Contains all `.cls` and `.bst` files, as well as the `.bib` references file
-- `.gitignore` Defines which files to be ignored by git
-- `license.txt` Defines the terms of the open-source [MIT-License](https://opensource.org/licenses/MIT) applied to this work.
-- `main.tex` Defines the entire document body.  This is the file to be compiled
-- `make.sh` A shell script which when run will compile the document
-- `README.md` Is the file you are currently reading
 
 ***
 # Build Instructions
