@@ -1,5 +1,7 @@
 # A Novel Surface Feature Navigation Algorithm Using Ray Tracing
-This repository contains all files required to compile this paper.  Because much of this work was done with proprietary software, the source code used to generate the results are unfortunately not available.
+This repository contains all files required to compile this paper.  A pre-compiled version of the paper is available for download under releases.
+
+*Because much of this work was done with proprietary software, the source code used to generate the results are unfortunately not available.*
 
 ***
 # File Structure
@@ -31,6 +33,6 @@ This repository contains all files required to compile this paper.  Because much
 
 ***
 # Contact
-For questions on this paper, please feel free to reach out!
+For more information about my research, feel free to checkout my website: [chrisgnam.space](chrisgnam.space)
 
-**Email:** [crgnam@buffalo.edu](mailto:crgnam@buffalo.edu)
+For questions on this paper or any other work of mine, please feel free to reach out to my email: [crgnam@buffalo.edu](mailto:crgnam@buffalo.edu)
